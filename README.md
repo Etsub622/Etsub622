@@ -8,7 +8,7 @@
 
 ## 🔥 About Me
 - 📱 Lead Mobile Developer at **Hummfly Tech**
-- 💻 Passionate about **Flutter**, **Dart**, and building scalable mobile applications.
+- 💻 Passionate about **Flutter**, **Dart**,**ReactJs**,**NodeJs**,**NestJs**,  and building scalable mobile applications.
 - 🎨 UI/UX Designer with a focus on creating intuitive user experiences.
 - 🏆 **A2SVian** (Backed by Google) | Solved **550+** Leetcode/Codeforces problems.
 - 🎯 Currently working on **online therapy app** with flutter.
